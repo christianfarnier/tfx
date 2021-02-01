@@ -20,7 +20,7 @@
 ### For component authors
 
 ## Deprecations
-*   Deprecated input/output compatibility aliases for Transform.
+*   Deprecated input/output compatibility aliases for Transform and StatisticsGen.
 
 *   Deprecated input/output compatibility aliases for SchemaGen.
 
