@@ -13,6 +13,9 @@
 
 *  Added a resolver that can resolve spans based on range_config.
 
+*  TFX Transform now outputs `pyarrow.RecordBatch`es to avoid unnecessary
+   conversions.
+
 ## Breaking changes
 
 ### For pipeline authors
